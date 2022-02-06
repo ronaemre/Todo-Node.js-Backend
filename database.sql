@@ -6,5 +6,6 @@ CREATE TABLE todo(
   todoname VARCHAR(255),
   tododate VARCHAR(255),
   todoupdatedate VARCHAR(255)
+  todochecked BOOLEAN,
   
 );
